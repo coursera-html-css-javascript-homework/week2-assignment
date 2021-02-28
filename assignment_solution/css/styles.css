@@ -52,10 +52,10 @@ section {
   margin-bottom: 10px;
 }
 
+/*used to put some left and right margins and still using only 100% of parent*/
 .wrapper {
   border: 1px solid;
   width: 90%;
-  //height: 350px;
   margin-left: auto;
   margin-right: auto;
   padding-bottom: 15px;
